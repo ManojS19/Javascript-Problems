@@ -8,7 +8,7 @@ const Accordion = () => {
     };
 
     const accordionData = [
-        { id: 1, title: "Accordion 1", content: "Accordion 1 Details" },
+        { id: 1, title: "Accordion 1", content: "Accordion 1 fu Details " },
         { id: 2, title: "Accordion 2", content: "Accordion 2 Details" },
     ];
 
